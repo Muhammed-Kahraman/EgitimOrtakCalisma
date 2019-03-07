@@ -4,3 +4,4 @@
  ~Yazı, görsel ve video gibi öğeleri sayfa içersine yerleştirme ve konumlandırma,
 ~ Bu sayfaların web tarayıcılarında düzgün şekilde görüntülenmesi,
 ~ Arama motorlarına sayfa hakkında bilgi verme gibi işlemleri gerçekleştirir.
+https://www.kodlamamerkezi.com/wp-content/uploads/2015/07/html-nedir-660x330.jpg
