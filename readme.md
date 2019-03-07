@@ -8,7 +8,7 @@
 
 - [İstemci Nedir ?](konular/httplife.md)
 
-- [HTML Nedir ?](konular/httplife.md)
+- [HTML Nedir ?](konular/htmllife.md)
 
 - [CSS Nedir ?](konular/httplife.md)
 
